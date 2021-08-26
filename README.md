@@ -1,2 +1,2 @@
 # coding_challenges
-coding challenges that i solve
+coding challenges that i solved
